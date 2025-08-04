@@ -2,10 +2,10 @@
 - Names: UWAMAHORO Phiona
 - ID:27125
 - Date:03/08/2025
-- 
+  
   # DBMS ASSINMENT 1
 
-# Exercises:
+## Exercises:
 
 ## Database Setup:
 
