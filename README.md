@@ -18,7 +18,9 @@ Database Creation:
 
 
 # CREATION OF TABLES
+
 TABLE DEPARTMENTS:
+
  <img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/37df0469-5cea-4a70-b46a-f4c907d10a89" />
 
 TABLE EMPLOYEES:
@@ -26,6 +28,7 @@ TABLE EMPLOYEES:
 <img width="940" height="295" alt="image" src="https://github.com/user-attachments/assets/92b005bd-dca8-411d-bb75-c9409235e2b6" />
 
 TABLE PROJECTS:
+
 <img width="895" height="254" alt="image" src="https://github.com/user-attachments/assets/6367cde4-5d39-4b40-bf60-4c470212683f" />
 
 
