@@ -14,19 +14,24 @@ Database Creation:
 
 CREATION OF TABLES
 TABLE DEPARTMENTS:
- 
+ <img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/37df0469-5cea-4a70-b46a-f4c907d10a89" />
+
 TABLE EMPLOYEES:
  
+<img width="940" height="295" alt="image" src="https://github.com/user-attachments/assets/92b005bd-dca8-411d-bb75-c9409235e2b6" />
 
 TABLE PROJECTS:
- 
+ <img width="940" height="295" alt="image" src="https://github.com/user-attachments/assets/6fcfba68-8ead-4960-952c-5df2e52c3745" />
+
 TABLE EMPLOYEE_PROJECTS:
+<img width="940" height="241" alt="image" src="https://github.com/user-attachments/assets/2079cc8f-0a15-42b3-8201-24a03b779afb" />
 
  
 
 INSERTING DATA
 INSERT INTO DEPARTMENTS:
  
+<img width="940" height="241" alt="image" src="https://github.com/user-attachments/assets/e34a6e89-d555-4536-af43-2e35175979fd" />
 
 
 INSERT INTO EMPLOYEES:
