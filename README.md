@@ -12,7 +12,8 @@
 ## Description: 
 
 Set up the database company_phiona_uwamahoro, create tables (DEPARTMENTS, EMPLOYEES, PROJECTS, EMPLOYEE_PROJECTS), insert case study data, and add required columns for exercises 8, 22, and 23.
-Database Creation:
+
+## Database Creation:
 
  <img width="940" height="129" alt="image" src="https://github.com/user-attachments/assets/0ce098b6-def5-4abd-bced-5264c306ba7f" />
 
