@@ -1,18 +1,23 @@
-# UWAMAHORO-Phiona-DBMS-ASSIGNMENT-27125-SUMMER2025
 
 - Names: UWAMAHORO Phiona
 - ID:27125
 - Date:03/08/2025
-- DBMS ASSINMENT 1
+- 
+  # DBMS ASSINMENT 1
 
-Exercises:
-Database Setup:
-Description: Set up the database company_phiona_uwamahoro, create tables (DEPARTMENTS, EMPLOYEES, PROJECTS, EMPLOYEE_PROJECTS), insert case study data, and add required columns for exercises 8, 22, and 23.
+# Exercises:
+
+## Database Setup:
+
+## Description: 
+
+Set up the database company_phiona_uwamahoro, create tables (DEPARTMENTS, EMPLOYEES, PROJECTS, EMPLOYEE_PROJECTS), insert case study data, and add required columns for exercises 8, 22, and 23.
 Database Creation:
+
  <img width="940" height="129" alt="image" src="https://github.com/user-attachments/assets/0ce098b6-def5-4abd-bced-5264c306ba7f" />
 
 
-CREATION OF TABLES
+# CREATION OF TABLES
 TABLE DEPARTMENTS:
  <img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/37df0469-5cea-4a70-b46a-f4c907d10a89" />
 
@@ -28,7 +33,7 @@ TABLE EMPLOYEE_PROJECTS:
 
  
 
-INSERTING DATA
+# INSERTING DATA
 INSERT INTO DEPARTMENTS:
  
 <img width="940" height="241" alt="image" src="https://github.com/user-attachments/assets/e34a6e89-d555-4536-af43-2e35175979fd" />
@@ -58,7 +63,7 @@ ALTER TABLE EMPLOYEES:
 
 
 
-String Function Exercises (15)
+# STRING FUNCTION EXERCISES (15)
 1.	Concatenate first and last name as full_name.
  <img width="940" height="312" alt="image" src="https://github.com/user-attachments/assets/ef5156b8-88bc-456f-99fd-05b9a2dc752d" />
 
@@ -109,7 +114,7 @@ String Function Exercises (15)
  <img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/b15898ca-6487-4825-8fa9-b7c5cf7554e4" />
 
 
-Numeric Function Exercises (10)
+# NUMERIC FUNCTION EXERCISES (10)
 16.	Round salary to the nearest whole number.
  <img width="940" height="242" alt="image" src="https://github.com/user-attachments/assets/d5772d0d-1ab4-4bc7-ab9d-ef47c0865a0d" />
 
@@ -143,7 +148,7 @@ Numeric Function Exercises (10)
  
 <img width="940" height="220" alt="image" src="https://github.com/user-attachments/assets/ffaa5140-dfc5-4307-8c51-cc05ed9c1b21" />
 
-Date/Time Function Exercises (10)
+# DATE/TIME FUNCTION EXERCISES (10)
 
 26.	Show today’s date using CURRENT_DATE.
 <img width="940" height="144" alt="image" src="https://github.com/user-attachments/assets/3bc229a0-7edb-4811-8c16-1fdf45fd7b48" />
@@ -176,7 +181,7 @@ Date/Time Function Exercises (10)
  <img width="940" height="484" alt="image" src="https://github.com/user-attachments/assets/10e75339-e253-4d72-a094-2fa696a4cef1" />
 
 
-Conditional Function Exercises (15)
+# CONDITIONAL FUNCTION EXERCISES (15)
 
 36.	Use CASE to label salaries.
  <img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/5be44490-0d25-41d4-a618-50a047d183da" />
