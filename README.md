@@ -41,7 +41,8 @@ TABLE EMPLOYEE_PROJECTS:
 # INSERTING DATA
 INSERT INTO DEPARTMENTS:
  
-<img width="940" height="241" alt="image" src="https://github.com/user-attachments/assets/e34a6e89-d555-4536-af43-2e35175979fd" />
+<img width="940" height="245" alt="image" src="https://github.com/user-attachments/assets/2709659e-42b6-4160-8955-e9f9ea68bca8" />
+
 
 
 INSERT INTO EMPLOYEES:
